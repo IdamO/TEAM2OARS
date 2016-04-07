@@ -183,6 +183,11 @@
     width: 60px; 
     float: left;
 }
+.main .logo.cursive{
+    font-family: 'Grand Hotel',cursive;
+    font-size: 82px;
+    
+}
 .logo-container .brand{
     font-size: 18px;
     color: #333;
